@@ -1,7 +1,7 @@
-• Mod → require(11500361720)("Username")
+require(11500361720)("Username")--Mod
 
-• Admin → require(11500375149)("Username")
+require(11500375149)("Username")--Admin
 
-• Head-Admin → require(11500379057)("Username")
+require(11500379057)("Username")--HeadAdmin
 
-• Owner → require(11500387558)("Username")
+require(11500387558)("Username")--Owner
