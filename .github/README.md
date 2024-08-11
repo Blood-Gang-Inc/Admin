@@ -40,4 +40,4 @@ We hope these admin loaders and rank scripts enhance your Roblox gaming experien
 - [Discord](https://linkr.it/blood)
 - [Website](https://linkr.it/bloodweb)
 - [Roblox](https://www.roblox.com/groups/3901342)
- <p>&copy; 2024 Blood Gang™️, Inc</p>
+ <p>&copy; 2019 Blood Gang™️, Inc</p>
