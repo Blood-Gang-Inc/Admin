@@ -1,4 +1,4 @@
-# Blood-Gang-Inc Admin Loaders
+# ![image](https://static.wixstatic.com/media/4585c8_562a61587130440b8df3e8d713ad29bf~mv2.png/v1/fill/w_70,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/blood%20gang%20icon.png) Blood-Gang-Inc Admin Loaders
 
 Welcome to the Blood-Gang-Inc Admin Loaders repository. This repository hosts Roblox admin loaders and rank scripts. If you're looking to enhance your Roblox game with powerful admin functionality and rank management, you've come to the right place.
 
@@ -6,7 +6,7 @@ Welcome to the Blood-Gang-Inc Admin Loaders repository. This repository hosts Ro
 
 To get started with our admin loaders and rank scripts, you can follow these steps:
 
-1. **Choose a Roblox Executor**: You'll need a Roblox executor to use these scripts. If you don't already have one, you can get started with [Saz SS Executor](https://github.com/Blood-Gang-Inc/sa-zserverside).
+1. **Choose a Roblox Executor**: You'll need a Roblox executor to use these scripts. If you don't already have one, you can get started with [Saz](https://github.com/Blood-Gang-Inc/saz).
 
 2. **Download the Scripts**: You can find the admin loaders and rank scripts in this repository. Browse the code or download the repository as a ZIP file.
 
