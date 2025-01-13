@@ -1,6 +1,6 @@
-# ![image](https://static.wixstatic.com/media/4585c8_562a61587130440b8df3e8d713ad29bf~mv2.png/v1/fill/w_70,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/blood%20gang%20icon.png) Blood-Gang-Inc Admin Loaders
+# ![image](https://static.wixstatic.com/media/4585c8_562a61587130440b8df3e8d713ad29bf~mv2.png/v1/fill/w_70,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/blood%20gang%20icon.png)
 
-Welcome to the Blood-Gang-Inc Admin Loaders repository. This repository hosts Roblox admin loaders and rank scripts. If you're looking to enhance your Roblox game with powerful admin functionality and rank management, you've come to the right place.
+Welcome to the Blood-Gang-Inc Admin repository. This repository hosts Roblox admin loaders and rank scripts. If you're looking to enhance your Roblox game with powerful admin functionality and rank management, you've come to the right place.
 
 ## Getting Started
 
